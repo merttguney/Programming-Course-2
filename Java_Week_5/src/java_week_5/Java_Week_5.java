@@ -68,16 +68,16 @@ public class Java_Week_5 {
         
         // Example 3 : Write a Java program that calculates the sum of the numbers from 1 to 10 using a while loop.
         
-        int i = 1;
-        
-        int result = 0;
-        
-        while(i <= 10)
-        {
-            result += i;
-            i++;
-        }
-        System.out.println(result);
+//        int i = 1;
+//        
+//        int result = 0;
+//        
+//        while(i <= 10)
+//        {
+//            result += i;
+//            i++;
+//        }
+//        System.out.println(result);
         
         /* Example 4 : Write a Java program that demonstrares the use of various mathematicaş functions from the Math Class
            including absolute value, square root, exponentiation, maximum, minimum values, rounding and generating a random number.
